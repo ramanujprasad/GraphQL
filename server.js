@@ -4,6 +4,7 @@
 	will be imported along with the schema object
 	from the schema.js file in src/schema.js 
 */
+
 const express = require('express');
 const graphqlHTTP = require('express-graphql');
 const schema = require('./src/schema.js');

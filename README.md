@@ -1,7 +1,11 @@
-# GraphQL
-A Simple GraphQL Server implementation using Express and NodeJS
+# graphql
+A Simple GraphQL Server implementation using Express and Node JS
 
-# To run
+# Installation
+``` 
 npm install
-
-Run it using node server.js in the root directory of your application.
+```
+# Run
+```
+Run it using `node server.js` in the root directory of your application.
+```
