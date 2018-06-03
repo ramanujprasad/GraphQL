@@ -9,3 +9,12 @@ npm install
 ```
 Run it using `node server.js` in the root directory of your application.
 ```
+# Open the below url in browser
+```
+http://localhost:3000
+```
+
+# Result : This a sample query to fire and get result
+```
+
+```
