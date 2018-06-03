@@ -1,8 +1,8 @@
 const _ = require('lodash');
 
 //Authors and Posts get data from JSON Arrays in the respective files.
-const Authors = require('./data/authors');
-const Posts = require('./data/posts');
+const Authors = require('./mockdata/authors');
+const Posts = require('./mockdata/posts');
 
 
 /* Here a simple schema is constructed without using the GraphQL query language. 

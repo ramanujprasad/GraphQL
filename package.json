@@ -1,14 +1,15 @@
 {
-  "name": "graphql-express-nodejs",
+  "name": "graphql",
   "version": "1.0.0",
   "description": "A Simple GraphQL Server implementation using Express and NodeJS",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js -s no"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codediger/graphql-express-nodejs.git"
+    "url": "git+https://github.com/ramanujprasad/GraphQL.git"
   },
   "keywords": [
     "JavaScript",
@@ -16,12 +17,12 @@
     "Express",
     "GraphQL"
   ],
-  "author": "Orinami Olatunji",
-  "license": "ISC",
+  "author": "Ramanuj",
+  "license": "NO License",
   "bugs": {
-    "url": "https://github.com/codediger/graphql-express-nodejs/issues"
+    "url": "https://github.com/ramanujprasad/GraphQL/issues"
   },
-  "homepage": "https://github.com/codediger/graphql-express-nodejs#readme",
+  "homepage": "https://github.com/ramanujprasad/GraphQL#readme",
   "dependencies": {
     "express": "^4.15.3",
     "express-graphql": "^0.6.6",

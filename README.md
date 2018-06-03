@@ -7,7 +7,7 @@ npm install
 ```
 # Run
 ```
-Run it using `node server.js` in the root directory of your application.
+Run it using `npm start`
 ```
 # Open the below url in browser
 ```
