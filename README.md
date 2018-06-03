@@ -15,7 +15,6 @@ http://localhost:3000
 ```
 
 # Result : This a sample query to fire and get result
-```
+
 ![Sample Result Image](https://github.com/ramanujprasad/GraphQL/blob/master/assets/result.png)
 
-```
